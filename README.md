@@ -1,63 +1,70 @@
 # 🎬 Netflix Clone
 
-A **Netflix Clone** built as a web development project to recreate the look and feel of Netflix. This project focuses on designing a modern, visually appealing streaming platform interface using web development technologies.
+A simple **Netflix Homepage Clone** created using HTML and CSS. This project recreates the visual design of Netflix's landing page as a beginner-friendly web development project.
 
-## 🚀 Features
+## ✨ Features
 
-* 🎥 Netflix-inspired user interface
-* 🎨 Modern and visually appealing design
-* 📱 Responsive layout for different screen sizes
-* 🖼️ Movie and TV show sections with posters and thumbnails
+* 🎨 Netflix-inspired homepage design
+* 🖼️ Background images and visual elements
+* 📱 CSS-based layout and styling
 * 🧭 Navigation bar inspired by Netflix
-* ✨ Interactive UI elements
+* 💻 Clean and structured HTML and CSS
 
 ## 🛠️ Technologies Used
 
-* **HTML5** — Structure of the website
-* **CSS3** — Styling, layouts, and animations
-* **JavaScript** — Interactive functionality
+* **HTML5** — For structuring the webpage
+* **CSS3** — For styling and layout
 
-*Update this section according to the technologies you actually used.*
+## 📂 Project Structure
 
-## 📸 Screenshots
-
-Add screenshots of your project here to showcase its design.
-
-```markdown
-![Homepage](screenshots/homepage.png)
+```text
+Netflix-Clone/
+│
+├── index.html
+├── style.css
+└── images/
 ```
 
-Replace the image path with the actual location of your screenshot in the repository.
+*The structure above represents the typical organization of this project.*
 
-## 💻 Getting Started
+## 🚀 How to Run
 
-Follow these steps to run the project locally.
+1. Clone this repository:
 
-### 1. Clone the Repository
+   ```bash
+   git clone https://github.com/VasuGarg-dev/Netflix-Clone.git
+   ```
 
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
+2. Open the project folder.
 
-### 2. Navigate to the Project Directory
+3. Open `index.html` in your web browser.
 
-```bash
-cd YOUR-REPOSITORY
-```
+You can also use the Live Server extension in VS Code to run the webpage locally.
 
-### 3. Run the Project
+## 📚 What I Learned
 
-If your project uses HTML, CSS, and JavaScript:
+* Understanding HTML page structure
+* Styling webpages using CSS
+* Working with background images and layouts
+* Using CSS properties to recreate an existing website's design
+* Managing and uploading projects using GitHub
 
-* Open the project folder in VS Code.
-* Open `index.html` in your browser.
-* Alternatively, use the **Live Server** extension in VS Code.
+## ⚠️ Disclaimer
 
-## 🌐 Live Demo
+This project is created for educational purposes only. It is an independent, non-commercial recreation of Netflix's homepage and is not affiliated with or endorsed by Netflix, Inc.
 
-Check out the live version of the project:
+All trademarks and related assets belong to their respective owners.
 
-**[View Live Demo](#)**
+## 👨‍💻 Author
+
+**Vasu Garg**
+
+GitHub: [@VasuGarg-dev](https://github.com/VasuGarg-dev)
+
+---
+
+⭐ If you find this project interesting, consider giving the repository a star!
+
 
 *Replace `#` with your deployed website URL when available.*
 
