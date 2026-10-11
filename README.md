@@ -66,8 +66,3 @@ GitHub: [@VasuGarg-dev](https://github.com/VasuGarg-dev)
 ⭐ If you find this project interesting, consider giving the repository a star!
 
 
-*Replace `#` with your deployed website URL when available.*
-
-## 📚 What I Learned
-
-Through this project, I
